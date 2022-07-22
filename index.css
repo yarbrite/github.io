@@ -1,1 +1,39 @@
+.welcome {
+  text-align: center;
+  background-color: aqua;
+  align-items: center;
+  padding: 5px 5px;
+  margin-top: 85px;
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 42px;
+  color: darkgreen;
+  font-weight: 800;
+}
+/* home boxes */
+.home-boxes {
+  padding: 10px;
+  border: 5px solid olive;
+  display: flex;
+}
+#home-box1 {
+  background-color: rgb(184, 127, 42);
+  text-align: center;
+  width: 100%;
+}
+#home-box2 {
+  background-color: rgb(14, 181, 62);
+  text-align: center;
+  width: 100%;
+}
+#home-box3 {
+  background-color: rgb(184, 127, 42);
+  text-align: center;
+  width: 100%;
+}
+#home-box4 {
+  background-color: rgb(14, 181, 62);
+  text-align: center;
+  width: 100%;
+}
 
